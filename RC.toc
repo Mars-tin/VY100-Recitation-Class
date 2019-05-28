@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.14pt}
+\beamer@sectionintoc {1}{Arguing through Art}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Painting}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Poetry}{9}{0}{1}
+\beamer@subsectionintoc {1}{3}{Discourse Analysis}{15}{0}{1}
+\beamer@sectionintoc {2}{Crafting Essay}{25}{0}{2}
+\beamer@subsectionintoc {2}{1}{Grammar Mistakes}{25}{0}{2}
+\beamer@subsectionintoc {2}{2}{Logical Fallacies}{32}{0}{2}
+\beamer@subsectionintoc {2}{3}{Rhetoric Analysis}{38}{0}{2}
+\beamer@subsectionintoc {2}{4}{Developing Paragraph}{40}{0}{2}
+\beamer@subsectionintoc {2}{5}{Intro and Conclusion}{45}{0}{2}
+\beamer@subsectionintoc {2}{6}{MLA Citation}{47}{0}{2}
+\beamer@sectionintoc {3}{Reading Materials}{60}{0}{3}
+\beamer@sectionintoc {4}{References}{61}{0}{4}
